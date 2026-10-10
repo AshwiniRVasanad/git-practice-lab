@@ -1,4 +1,2 @@
-I am learning Git.
-I am SaiVidya Student
-Learning AIML
-SVIT
+ASHWINIR
+I can push a branch and open a pull request.
